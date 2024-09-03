@@ -1,0 +1,22 @@
+table{
+    background-color: aqua;
+
+}
+/* fieldset{
+    background-color: hsl(62, 61%, 58%);
+} */
+body{
+    font-style: italic;
+    background-color:rgb(168, 244, 244)
+}
+
+.usama{
+    background-color: gray;
+}
+fieldset{
+    background-color: greenyellow;
+}
+.pti{
+  color: brown;
+
+}
